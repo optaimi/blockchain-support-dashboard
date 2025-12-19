@@ -1,8 +1,9 @@
-# NodeGuard Pro 🛡️
+# NodeGuard🛡️
 
-**NodeGuard Pro** is an AI-powered Tier 3 Support Dashboard designed to automate root-cause analysis for blockchain infrastructure issues. It acts as an intelligent layer between support engineers and raw JSON-RPC logs, capable of diagnosing complex EVM errors, checking endpoint health, and generating production-ready fix scripts.
+**NodeGuard** is an AI-powered Tier 3 Support Dashboard designed to automate root-cause analysis for blockchain infrastructure issues. It acts as an intelligent layer between support engineers and raw JSON-RPC logs, capable of diagnosing complex EVM errors, checking endpoint health, and generating production-ready fix scripts.
 
-![Dashboard Demo](https://via.placeholder.com/800x400.png?text=NodeGuard+Pro+Dashboard+Preview)
+![demo](https://github.com/user-attachments/assets/dc0c6c32-ca11-46aa-b78c-81dda195a052)
+
 
 ## 🚀 Features
 
@@ -25,7 +26,7 @@
 
     ```bash
     git clone https://github.com/optaimi/blockchain-support-dashboard
-    cd nodeguard-pro
+    cd nodeguard
     ```
 
 2.  **Install Dependencies**
